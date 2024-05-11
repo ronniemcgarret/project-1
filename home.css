@@ -1,0 +1,17 @@
+body{
+    
+    margin: 20px 20%;
+    padding: 25px 35px;
+    background-image: linear-gradient( to left, white, black);
+}
+
+
+nav{
+    font-size: 20px;
+    padding:10px 0px 10px 500px ;
+   
+}
+h1{
+    text-decoration: underline double;
+    padding: 0px 400px;
+}
